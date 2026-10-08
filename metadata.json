@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Health",
+  "description": "실시간 걸음수, 수면 주기, 소모 칼로리 및 건강 메트릭을 추적하는 키네틱 헬스 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
